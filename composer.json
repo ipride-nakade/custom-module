@@ -1,6 +1,6 @@
 {
     "name": "sugotoku/sugotoku_auth",
     "description": "ababa",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "require": {}
 }
