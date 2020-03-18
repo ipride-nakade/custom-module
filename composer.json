@@ -1,5 +1,6 @@
 {
     "name": "sugotoku/sugotoku_auth",
     "description": "ababa",
+    "type": "drupal-module",
     "require": {}
 }
